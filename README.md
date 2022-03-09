@@ -49,3 +49,9 @@ When you are able to access through the link, you will (hopefully) see this page
 You can view the recipes page for Jupyter docker stacks to get an idea of how to extend the docker image to a build file: [https://jupyter-docker-stacks.readthedocs.io/en/latest/using/recipes.html](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/recipes.html)
 
 #TODO add dockerfile + edit docker-compose.yaml to include manual builds for custom libraries.
+
+# References
+- https://github.com/jhconning/Econ-Teach
+- https://github.com/mhasoba/TheMulQuaBio
+- https://github.com/norvig/pytudes
+- https://github.com/QuantEcon/QuantEcon.notebooks
