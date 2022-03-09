@@ -44,3 +44,8 @@ When you are able to access through the link, you will (hopefully) see this page
 
 ![image](https://user-images.githubusercontent.com/1130103/157424277-e4b8a10f-4b93-4f94-8707-dac3c90d4386.png)
 
+## Extending the docker image
+
+You can view the recipes page for Jupyter docker stacks to get an idea of how to extend the docker image to a build file: [https://jupyter-docker-stacks.readthedocs.io/en/latest/using/recipes.html](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/recipes.html)
+
+#TODO add dockerfile + edit docker-compose.yaml to include manual builds for custom libraries.
