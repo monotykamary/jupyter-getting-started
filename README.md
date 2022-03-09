@@ -40,7 +40,7 @@ Make sure to replace the generated DNS link from the container's id (in our case
 
 ![image](https://user-images.githubusercontent.com/1130103/157423029-eceb9409-6232-479a-9682-82abcb9f210e.png)
 
-OR you can use the token to create a password for accessing the Jupyter notebook when you access `http://localhost:8888`
+When you are able to access through the link, you will (hopefully) see this page.
 
-![image](https://user-images.githubusercontent.com/1130103/157423693-afa342fd-7f3a-40ba-bbf7-942657ab42aa.png)
+![image](https://user-images.githubusercontent.com/1130103/157424277-e4b8a10f-4b93-4f94-8707-dac3c90d4386.png)
 
